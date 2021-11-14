@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Shalimar';
+    src: url('../fonts/Shalimar-Regular.eot');
+    src: url('../fonts/Shalimar-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Shalimar-Regular.woff2') format('woff2'),
+        url('../fonts/Shalimar-Regular.woff') format('woff'),
+        url('../fonts/Shalimar-Regular.ttf') format('truetype'),
+        url('../fonts/Shalimar-Regular.svg#Shalimar-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
